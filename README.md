@@ -21,7 +21,7 @@ Enjoy!
 Built with <br/>
 <img src="./screenshots/react.png" width=10%>
 <img src="./screenshots/node.png" width=15%>
-<img src="./screenshots/mongoDB.png" width=20%>
+<img src="./screenshots/mongoDB.png" width=25%>
       
 
 
