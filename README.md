@@ -10,7 +10,7 @@ Feel free to clone this repo and run the application locally.
 - Mongo Key
 
 <b>To Run</b>
-- Open `MONGO_KEY.js` and copy & paste the Mongo Key (the key has to be a string so keep the single quotes around the pasted key value) 
+- Open `MONGO_KEY.js` and copy & paste the Mongo Key into the region labeld `PASTE MONGO KEY HERE` (the key has to be a string so keep the single quotes around the key value) 
 - `cd` into `frontend` directory and run `npm i`
 - `cd` into `backend` directory and run `npm i`
 - While in `backend` directory, run `npm start`
