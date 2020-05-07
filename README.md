@@ -20,8 +20,8 @@ Enjoy!
 
 <b>Screenshots</b>
 
-<img src="./Screenshots/home.png" width=60%>
+<img src="./screenshots/home.png" width=60%>
 
-<img src="./Screenshots/abstract.png" width=60%>
+<img src="./screenshots/abstract.png" width=60%>
 
-<img src="./Screenshots/analysis.png" width=60%>
+<img src="./screenshots/analysis.png" width=60%>
