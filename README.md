@@ -1,6 +1,8 @@
 # ImagePro
 
-Fullstack web app that detects edges in a jpeg file and conducts empirical analysis on 2 edge-detection algorithms: Euclidean & Sobel
+Fullstack web app that 
+- detects an image's edges and re-renders it black & white solely consisting of its edges
+- conducts empirical analysis on 2 edge-detection algorithms: Euclidean & Sobel
 
 Feel free to clone this repo and run the application locally.
 
