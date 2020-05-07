@@ -7,7 +7,7 @@ Feel free to clone this repo and run the application locally.
 <b>Requirements</b>
 - Node JS version 13.12.0
 - NPM version 6.14.4
-- MONGO KEY
+- Mongo Key
 
 <b>To Run</b>
 - Open `MONGO_KEY.js` and copy & paste the Mongo Key (the key has to be a string so keep the single quotes around the pasted key value) 
