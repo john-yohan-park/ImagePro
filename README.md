@@ -11,7 +11,7 @@ Feel free to clone this repository and run the application locally.
 - NPM version 6.14.4 (latest)
 - Mongo Key
 
-If you have a mac and don't have Node & NPM, open up a terminal and install homebrew (https://brew.sh/). Then run `brew i node`, which installs the latest versions of Node & NPM.
+If you have a mac and don't have Node & NPM, open up a terminal and install homebrew (https://brew.sh/) then run `brew i node`, which installs the latest versions of Node & NPM.
 
 <b>To Run</b>
 - Open `MONGO_KEY.js` from the project directory and copy & paste Mongo Key value into the region labeled `'PASTE MONGO KEY HERE'` (keep the single quotes around the key value since the key has to be a string value) 
