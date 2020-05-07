@@ -18,10 +18,17 @@ Feel free to clone this repo and run the application locally.
 
 Enjoy!
 
+Built with <br/>
+<img src='https://cdn.iconscout.com/icon/free/png-512/react-4-1175110.png' width:'10%'>
+<img src='https://images.tutorialedge.net/images/node.png' width:'10%'>
+<img src='https://cdn.iconscout.com/icon/free/png-512/mongodb-3-1175138.png' width:'10%'>
+      
+
+
 <b>Screenshots</b>
 
-<img src="./Screenshots/home.png" width=60%>
+<img src="./screenshots/home.png" width=60%>
 
-<img src="./Screenshots/abstract.png" width=60%>
+<img src="./screenshots/abstract.png" width=60%>
 
-<img src="./Screenshots/analysis.png" width=60%>
+<img src="./screenshots/analysis.png" width=60%>
