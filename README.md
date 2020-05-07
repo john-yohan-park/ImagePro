@@ -4,7 +4,7 @@ Fullstack web app that
 - detects an image's edges and re-renders it black & white solely consisting of its edges
 - conducts empirical analysis on 2 edge-detection algorithms: Euclidean & Sobel
 
-Feel free to clone this repo and run the application locally.
+Feel free to clone this repository and run the application locally.
 
 <b>Requirements</b>
 - Node JS version 13.12.0
