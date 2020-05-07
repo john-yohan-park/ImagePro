@@ -7,9 +7,10 @@ Fullstack web app that
 Feel free to clone this repo and run the application locally.
 
 <b>Requirements</b>
-- Node JS version 13.12.0
+- Node JS version 13.12.0 (If you have a mac, open up a terminal and install homebrew (https://brew.sh/). The run `brew i node`
 - NPM version 6.14.4
 - Mongo Key
+
 
 <b>To Run</b>
 - Open `MONGO_KEY.js` from the project directory and copy & paste Mongo Key value into the region labeled `PASTE MONGO KEY HERE` (the key has to be a string value so keep the single quotes around the key value) 
