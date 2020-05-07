@@ -19,9 +19,9 @@ Feel free to clone this repo and run the application locally.
 Enjoy!
 
 Built with <br/>
-<img src="https://cdn.iconscout.com/icon/free/png-512/react-4-1175110.png" width:'10%'>
-<img src="https://images.tutorialedge.net/images/node.png" width:'10%'>
-<img src="https://cdn.iconscout.com/icon/free/png-512/mongodb-3-1175138.png" width:'10%'>
+<img src="./screenshots/react.png" width=10%>
+<img src="./screenshots/node.png" width=10%>
+<img src="./screenshots/mongo.png" width=10%>
       
 
 
