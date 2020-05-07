@@ -18,7 +18,7 @@ Feel free to clone this repo and run the application locally.
 
 Enjoy!
 
-<b>Built with</b> <br/>
+Built with <br/>
 <img src="./screenshots/react.png" width=10%>
 <img src="./screenshots/node.png" width=15%>
 <img src="./screenshots/mongoDB.png" width=25%>
