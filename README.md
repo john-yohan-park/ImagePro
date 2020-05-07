@@ -14,7 +14,7 @@ Feel free to clone this repository and run the application locally.
 If you have a mac and don't have Node & NPM, open up a terminal and install Homebrew (https://brew.sh/) then run `brew install node`, which installs the latest versions of Node & NPM.
 
 <b>To Run</b>
-- Open `MONGO_KEY.js` from the project directory and copy & paste Mongo Key value into the region labeled `'PASTE MONGO KEY HERE'` (keep the single quotes around the key value since the key has to be a string value) 
+- Open `MongoKey.js` from the project directory and copy & paste Mongo Key value into the region labeled `'PASTE MONGO KEY HERE'` (keep the single quotes around the key value since the key has to be a string value) 
 - `cd` into `frontend` directory and run `npm i`
 - `cd` into `backend` directory and run `npm i`
 - While in `backend` directory, run `npm start`
