@@ -1,7 +1,7 @@
 # ImagePro
 
 Fullstack web app that 
-- detects an image's edges and re-renders it black & white solely consisting of its edges
+- detects an image's edges and renders it black & white solely consisting of its edges
 - conducts empirical analysis on 2 edge-detection algorithms: Euclidean & Sobel
 
 Feel free to clone this repository and run the application locally.
