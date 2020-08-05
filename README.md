@@ -1,4 +1,4 @@
-# Sox Dashboard
+# ImagePro
 
 Fullstack web app that 
 - detects an image's edges and renders it black & white solely consisting of its edges
@@ -7,7 +7,7 @@ Fullstack web app that
 Feel free to clone this repository and run the application locally.
 
 <b>Requirements</b>
-- Node JS version 14.4.0 (latest)
+- Node JS version 13.12.0 (latest)
 - NPM version 6.14.4 (latest)
 - Mongo Key
 
